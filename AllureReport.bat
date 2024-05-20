@@ -1,0 +1,1 @@
+allure serve F:\SeleniumProject\OpenCart\target\allure-results
